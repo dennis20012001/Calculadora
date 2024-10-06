@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator"</string>
+    <string name="zero">0</string>
+    <string name="B_1">1</string>
+    <string name="B_2">2</string>
+    <string name="B_3">3</string>
+    <string name="B_4">4</string>
+    <string name="B_5">5</string>
+    <string name="B_6">6</string>
+    <string name="B_7">7</string>
+    <string name="B_8">8</string>
+    <string name="B_9">9</string>
+    <string name="multiply">*</string>
+    <string name="minus">-</string>
+    <string name="Igual">=</string>
+    <string name="coma">.</string>
+    <string name="suma">+</string>
+    <string name="division">/</string>
+    <string name="percentage">%</string>
+    <string name="C">C</string>
+    <string name="invisible1">Button</string>
+    <string name="invisible2">Button</string>
+    <string name="screen"/>
+</resources>
